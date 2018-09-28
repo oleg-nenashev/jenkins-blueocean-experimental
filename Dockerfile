@@ -11,6 +11,5 @@ FROM jenkins/jenkins-experimental:java11-support-on-jdk8
 USER root
 COPY plugins.txt /usr/share/jenkins/ref/plugins.txt
 RUN /usr/local/bin/install-plugins.sh < /usr/share/jenkins/ref/plugins.txt
-ARG JAVA_OPTS="-Dhudson.model.DownloadService.noSignatureCheck=true"
 
 USER jenkins
