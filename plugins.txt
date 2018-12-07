@@ -1,4 +1,4 @@
-blueocean:1.8.2
-workflow-support:incrementals;org.jenkins-ci.plugins.workflow;2.21-rc591.43d37d4d080a
+blueocean:1.9.0
+workflow-support:incrementals;org.jenkins-ci.plugins.workflow;3.0-java11-alpha-1-rc684.d802f5d9aeed
 antisamy-markup-formatter
 matrix-auth
