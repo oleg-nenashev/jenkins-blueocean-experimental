@@ -7,7 +7,7 @@
 </aside>
 
 Contains a Dockerfile for a Jenkins + BlueOcean + Pipeline bundle.
-For Java 11 it also includes all pathes needed to run it out of the box. 
+For Java 11 it also includes all patches needed to run it out of the box. 
 
 ## Deployment destinations
 
